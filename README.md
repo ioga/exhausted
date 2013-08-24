@@ -12,7 +12,7 @@ and `awful.widget.textclock`.
 Requirements
 -----
 - awesome 3.5
-- sys-power/acpi [URL](http://sourceforge.net/projects/acpiclient/)
+- [sys-power/acpi](http://sourceforge.net/projects/acpiclient/)
 
 Usage
 -----
