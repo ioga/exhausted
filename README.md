@@ -2,7 +2,7 @@ Exhausted, a battery status widget for Awesome WM.
 =====
 
 Exhausted is yet another battery status widget aimed for people, who are too
-tired to to know anything about their laptop battery unless it's discharging.
+tired to know anything about their laptop battery unless it's discharging.
 
 The code is loosely based on [Vicious](http://git.sysphere.org/vicious/),
 [Delightful](http://scm.solitudo.net/gitweb/public/?p=delightful.git;a=summary),

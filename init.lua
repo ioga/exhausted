@@ -30,7 +30,7 @@ local function get_color(percent)
   local color_max = 255
   local green = math.min(percent / 50, 1) * color_max
   local red = (1 - math.max(percent / 50 - 1, 0)) * color_max
-  return string.format('#%x%x00', red, green)
+  return string.format('#%02x%02x00', red, green)
 end
 
 function widget()
